@@ -1,0 +1,37 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.user
+*.userprefs
+*.log
+
+# Generated / local
+*.pdb
+*.dll
+*.dylib
+*.so
+*.a
+*.exe
+*.app
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
