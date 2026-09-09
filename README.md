@@ -7,7 +7,6 @@
 **Public-safe** Unreal Engine 5.3+ plugin: avian wing **fold / remige / alula** math library, runtime component, species presets, and editor utilities for wiring **Control Rig** and **AnimBP**.
 
 Sibling Blender addon: [hallower1980/avian-wing-rig](https://github.com/hallower1980/avian-wing-rig)  
-Maintained by [hallower1980](https://github.com/hallower1980) / AvianWingRig contributors.
 
 > **No binary Control Rig `.uasset` files are shipped.** This repo provides C++ / Blueprint APIs + docs so you can author Control Rigs in your project.
 
